@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/laura/workspace/dataStructStudy/cmake-build-debug"/>
+				<Option working_dir="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/laura/workspace/dataStructStudy/cmake-build-debug"/>
+				<Option working_dir="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/laura/workspace/dataStructStudy/cmake-build-debug"/>
+				<Option working_dir="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="study">
-				<Option output="/Users/laura/workspace/dataStructStudy/cmake-build-debug/study" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/laura/workspace/dataStructStudy/cmake-build-debug"/>
+				<Option output="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 study"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 study"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="study/fast">
-				<Option output="/Users/laura/workspace/dataStructStudy/cmake-build-debug/study" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/laura/workspace/dataStructStudy/cmake-build-debug"/>
+				<Option output="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/laura/CLionProjects/datastructstudy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,56 +73,56 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 study/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/workspace/dataStructStudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 study/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/laura/CLionProjects/datastructstudy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/BiTNode.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/BiTNode.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/BiTNode.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/BiTNode.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/BiThrNode.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/BiThrNode.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/BiThrNode.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/BiThrNode.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/ElemType.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/ElemType.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/LinkList.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/LinkList.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/LinkList.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/LinkList.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/Queue.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/MGraph.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/Queue.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/MGraph.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/Stack.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/Queue.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/Stack.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/Queue.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/main.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/Stack.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/顺序线性表.cpp">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/Stack.h">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/顺序线性表.h">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/main.cpp">
 			<Option target="study"/>
 		</Unit>
-		<Unit filename="/Users/laura/workspace/dataStructStudy/CMakeLists.txt">
+		<Unit filename="/Users/laura/CLionProjects/datastructstudy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

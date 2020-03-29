@@ -2,10 +2,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/study.dir/BiTNode.cpp.o"
   "CMakeFiles/study.dir/BiThrNode.cpp.o"
   "CMakeFiles/study.dir/LinkList.cpp.o"
+  "CMakeFiles/study.dir/MGraph.cpp.o"
   "CMakeFiles/study.dir/Queue.cpp.o"
   "CMakeFiles/study.dir/Stack.cpp.o"
   "CMakeFiles/study.dir/main.cpp.o"
-  "CMakeFiles/study.dir/顺序线性表.cpp.o"
   "study"
   "study.pdb"
 )

@@ -11,6 +11,8 @@ CMakeFiles/study.dir/LinkList.cpp.o: ../ElemType.h
 CMakeFiles/study.dir/LinkList.cpp.o: ../LinkList.cpp
 CMakeFiles/study.dir/LinkList.cpp.o: ../LinkList.h
 
+CMakeFiles/study.dir/MGraph.cpp.o: ../MGraph.cpp
+
 CMakeFiles/study.dir/Queue.cpp.o: ../ElemType.h
 CMakeFiles/study.dir/Queue.cpp.o: ../Queue.cpp
 CMakeFiles/study.dir/Queue.cpp.o: ../Queue.h
@@ -21,11 +23,8 @@ CMakeFiles/study.dir/Stack.cpp.o: ../Stack.h
 
 CMakeFiles/study.dir/main.cpp.o: ../ElemType.h
 CMakeFiles/study.dir/main.cpp.o: ../LinkList.h
+CMakeFiles/study.dir/main.cpp.o: ../MGraph.h
 CMakeFiles/study.dir/main.cpp.o: ../Queue.h
 CMakeFiles/study.dir/main.cpp.o: ../Stack.h
 CMakeFiles/study.dir/main.cpp.o: ../main.cpp
-
-CMakeFiles/study.dir/顺序线性表.cpp.o: ../ElemType.h
-CMakeFiles/study.dir/顺序线性表.cpp.o: ../顺序线性表.cpp
-CMakeFiles/study.dir/顺序线性表.cpp.o: ../顺序线性表.h
 

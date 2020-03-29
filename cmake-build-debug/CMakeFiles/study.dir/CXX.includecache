@@ -6,29 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/Users/laura/workspace/dataStructStudy/ElemType.h
-
-/Users/laura/workspace/dataStructStudy/LinkList.h
-ElemType.h
-/Users/laura/workspace/dataStructStudy/ElemType.h
-
-/Users/laura/workspace/dataStructStudy/Queue.h
-ElemType.h
-/Users/laura/workspace/dataStructStudy/ElemType.h
-
-/Users/laura/workspace/dataStructStudy/Stack.h
-iostream
--
-ElemType.h
-/Users/laura/workspace/dataStructStudy/ElemType.h
-
-/Users/laura/workspace/dataStructStudy/main.cpp
-iostream
--
-LinkList.h
-/Users/laura/workspace/dataStructStudy/LinkList.h
-Queue.h
-/Users/laura/workspace/dataStructStudy/Queue.h
-Stack.h
-/Users/laura/workspace/dataStructStudy/Stack.h
+/Users/laura/CLionProjects/datastructstudy/MGraph.cpp
 

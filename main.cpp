@@ -5,6 +5,7 @@ using namespace std;
 #include "LinkList.h"
 #include "Queue.h"
 #include "Stack.h"
+#include "MGraph.h"
 
 void test() {
     int a = 0;
@@ -14,7 +15,7 @@ void test() {
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+//    std::cout << "Hello, World!" << std::endl;
     //test();
     //单链表测试
     //LinkList_Test();
@@ -25,7 +26,9 @@ int main() {
     //队列测试
 //    Queue_Test();
 
-    test();
+//    test();
+
+    MGraph_test();
     return 0;
 }
 
